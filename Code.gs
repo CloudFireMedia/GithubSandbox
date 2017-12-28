@@ -5,5 +5,8 @@ function myFunction() {
   
   // v0.1_dev_1324
   var b = 1
+  
+  // v0.2
+  var c = 1
     
 }
